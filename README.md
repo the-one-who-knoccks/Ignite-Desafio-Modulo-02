@@ -8,7 +8,7 @@
 ## Aplicação - RocketShoes
 
 Aplicação desenvolvida para reforçar os conceitos aprendidos no modulo 02. 
-<br>  
+<br>   
 <br>     
         
 <div>
